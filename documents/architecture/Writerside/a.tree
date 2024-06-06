@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="a"
+                 name="Architecture"
+                 start-page="Overview.md">
+
+    <toc-element topic="Overview.md"/>
+    <toc-element topic="Type-of-numbers-and-the-number-line.md">
+        <toc-element topic="Types-of-number-and-the-number-line.md"/>
+        <toc-element topic="Positive-and-negative-numbers.md"/>
+        <toc-element topic="Absolute-number.md"/>
+    </toc-element>
+</instance-profile>
