@@ -1,3 +1,0 @@
-# Types of number and the number line
-
-Start typing here...
